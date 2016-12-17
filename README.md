@@ -6,3 +6,7 @@ Clone the repository or download the `Oceanic-Next.spTheme` file. Then select it
 
 # Screenshot
 ![Screenshot](screenshot.png)
+
+---
+
+**MIT Licensed**
